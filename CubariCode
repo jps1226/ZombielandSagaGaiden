@@ -1,0 +1,17 @@
+{
+  "title": "Zombieland Saga Gaiden",
+  "description": "Eikichi Hyodo is a second-year high school student, and the eldest son of an onion-growing family. Eikichi withdrew from the Baseball Club due to injury, so he now considers his life to be mediocre and has no encouragement. On the other hand, his twin older sister, Yuko, is in perfect condition and has the opportunity to take over the family business. However, one day Yuko disappears without a trace...",
+  "artist": "Kasumi Fukagawa",
+  "author": "Kasumi Fukagawa",
+  "cover": "https://static.wikia.nocookie.net/zombieland-saga/images/4/49/Zombie_Land_Saga_Gaiden.jpg",
+  "chapters": {
+    "1": {
+      "title": "chapter 1",
+      "volume": "1",
+      "groups": {
+        "r/ZLS": "/proxy/api/imgur/chapter/EBtJOK0/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
