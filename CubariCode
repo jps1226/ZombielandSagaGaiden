@@ -11,7 +11,15 @@
       "groups": {
         "r/ZLS": "/proxy/api/imgur/chapter/eXIZg3e/"
       },
-      "last_updated": "1624826510"
-    }
+      "last_updated": "1624909106"
+    },
+    "2": {
+      "title": "Chapter 2 (rough ver.)",
+      "volume": "1",
+      "groups": {
+        "r/ZLS": "/proxy/api/imgur/chapter/deBHwfi/"
+      },
+      "last_updated": "1624909106"
+    },
   }
 }
