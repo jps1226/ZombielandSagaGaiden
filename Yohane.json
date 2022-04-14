@@ -8,10 +8,18 @@
     "1": {
       "title": "Chapter 1",
       "volume": "1",
+      "last_updated": "1648988421",
       "groups": {
-        "kohiwonomitai": "/proxy/api/imgur/chapter/VWAwPNE/"
-      },
-      "last_updated": "1648988421"
+        "kohiwonomitai": "/proxy/api/imgur/chapter/C9wFj22"
+      }
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "last_updated": "1649900834",
+      "groups": {
+        "kohiwonomitai": "/proxy/api/imgur/chapter/5U2dey6"
+      }
     }
   }
 }
